@@ -1,0 +1,8 @@
+p{color:yellow;text-align:center;font-family:cambria;font-weight:normal;font-size:14pt;font-variant:small-caps}
+div{color:pink;text-align:center;font-size:14pt;font-family:cambria;font-weight:normal;font-variant:small-caps}
+h1{color:springgreen;text-align:center;text-decoration:blink}
+img{background-repeat:no-repeat;background-attachment:scroll;background-position:center}
+marquee{color:aqua}
+.myclass{color:palevioletred;text-align:justify;text-decoration:underline}
+*{font-align:justify}
+#myid{background-attachment:fixed}
